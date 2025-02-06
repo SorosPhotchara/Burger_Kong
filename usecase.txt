@@ -21,4 +21,3 @@ User -- (Coupon)
 (order_detail)<.down.(payment_method):<<extend>>
 (Show_detail_menu).down.>(find_menu):<<extend>>
 @enduml
-gg
